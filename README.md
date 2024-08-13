@@ -1,5 +1,6 @@
 # Coding_Challeges
-This repository has few coding puzzles.
+This repository has a few coding puzzles.
 
 Challenge1- **Juice Problem**
-Challenge1- **Pattern Chaser**
+Challenge2- **Pattern Chaser**
+Challenge3- **Find Longest word**

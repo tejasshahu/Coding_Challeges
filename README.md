@@ -8,4 +8,4 @@ This repository has a few coding puzzles.
 5. **Reverse List(Using while loop)** <br>
 6. **Selection Sort(Descending order)** <br>
 7. **Bubble Sort(Descending order)** <br>
-8. 
+8. **Insertion Sort(Descending order)** <br>

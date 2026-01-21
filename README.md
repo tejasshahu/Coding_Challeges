@@ -9,3 +9,4 @@ This repository has a few coding puzzles.
 6. **Selection Sort(Descending order)** <br>
 7. **Bubble Sort(Descending order)** <br>
 8. **Insertion Sort(Descending order)** <br>
+9. **Merge Sort(Descending order)** <br>

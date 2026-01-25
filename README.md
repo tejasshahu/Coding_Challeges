@@ -10,3 +10,5 @@ This repository has a few coding puzzles.
 7. **Bubble Sort(Descending order)** <br>
 8. **Insertion Sort(Descending order)** <br>
 9. **Merge Sort(Descending order)** <br>
+10. **Common available meeting slot** <br>
+11. **2nd highest element from array** <br>

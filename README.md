@@ -12,3 +12,6 @@ This repository has a few coding puzzles.
 9. **Merge Sort(Descending order)** <br>
 10. **Common available meeting slot** <br>
 11. **2nd highest element from array** <br>
+12. **Remove Duplicates from a Sorted Array** <br>
+13. **Shift the array by 1 position** <br>
+14. 

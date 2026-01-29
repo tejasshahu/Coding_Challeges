@@ -18,3 +18,4 @@ This repository has a few coding puzzles.
 15. **Union of 2 Sorted Arrays** <br>
 16. **Find missing element from given Array** <br>
 17. **Max Consecutive Ones** <br>
+18. **Group Anagrams - Leetcode 49** <br>

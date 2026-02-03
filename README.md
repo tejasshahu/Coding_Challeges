@@ -19,3 +19,4 @@ This repository has a few coding puzzles.
 16. **Find missing element from given Array** <br>
 17. **Max Consecutive Ones** <br>
 18. **Group Anagrams - Leetcode 49** <br>
+19. **Valid Palindrome - Leetcode 125** <br>

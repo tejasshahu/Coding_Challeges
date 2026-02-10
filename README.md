@@ -25,3 +25,4 @@ This repository has a few coding puzzles.
 22. **Leetcode 2149: Rearrange Array Elements by Sign** <br>
 23. **Leetcode 128: Longest Consecutive Sequence** <br>
 24. **Leetcode 73: Set Matrix Zeros** <br>
+25. **Leetcode 48: Rotate Matrix by 90 Degrees** <br>

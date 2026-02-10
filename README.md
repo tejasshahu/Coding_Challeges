@@ -24,4 +24,4 @@ This repository has a few coding puzzles.
 21. **Leetcode 121: Best Time to Buy and Sell Stock** <br>
 22. **Leetcode 2149: Rearrange Array Elements by Sign** <br>
 23. **Leetcode 128: Longest Consecutive Sequence** <br>
-24. 
+24. **Leetcode 73: Set Matrix Zeros** <br>

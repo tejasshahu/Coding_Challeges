@@ -29,5 +29,5 @@ This repository has a few coding puzzles.
 26. **Leetcode 15: 3Sum Problem** <br>
 27. **Leap year or not** <br>
 28. **Leetcode 704: Binary Search** <br>
-29. **** <br>
+29. **Ceil The Floor** <br>
 30. **** <br>

@@ -30,6 +30,8 @@ This repository has a few coding puzzles.
 27. **Leap year or not** <br>
 28. **Leetcode 704: Binary Search** <br>
 29. **Ceil The Floor** <br>
-30. **** <br>
+30. **Group sorted array elements** <br>
 31. **Find First and Last Position of Element in Sorted Array** <br>
 32. **Count Occurrences in Sorted Array** <br>
+33. **** <br>
+34. **LC 33: Search in Rotated Sorted Array** <br>

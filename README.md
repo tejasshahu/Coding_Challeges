@@ -33,5 +33,5 @@ This repository has a few coding puzzles.
 30. **Group sorted array elements** <br>
 31. **Find First and Last Position of Element in Sorted Array** <br>
 32. **Count Occurrences in Sorted Array** <br>
-33. **** <br>
+33. **Limit Occurrences with Relative Order Preservation** <br>
 34. **LC 33: Search in Rotated Sorted Array** <br>

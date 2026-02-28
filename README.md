@@ -36,3 +36,6 @@ This repository has a few coding puzzles.
 33. **Limit Occurrences with Relative Order Preservation** <br>
 34. **LC 33: Search in Rotated Sorted Array** <br>
 35. **Find the net feedback score** <br>
+36. **** <br>
+37. **Colorful Number** <br>
+38. 

@@ -38,4 +38,5 @@ This repository has a few coding puzzles.
 35. **Find the net feedback score** <br>
 36. **** <br>
 37. **Colorful Number** <br>
-38. 
+38. **LC 81: Search in Rotated Sorted Array II** <br>
+39. ****<br>

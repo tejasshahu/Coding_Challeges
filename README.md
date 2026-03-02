@@ -39,4 +39,15 @@ This repository has a few coding puzzles.
 36. **** <br>
 37. **Colorful Number** <br>
 38. **LC 81: Search in Rotated Sorted Array II** <br>
-39. ****<br>
+39. **Leetcode 153: Find Minimum in Rotated Sorted Array**<br>
+40. **** <br>
+41. **** <br>
+42. **** <br>
+43. **** <br>
+44. **** <br>
+45. **** <br>
+46. **** <br>
+47. **** <br>
+48. **** <br>
+49. **** <br>
+50. **** <br>

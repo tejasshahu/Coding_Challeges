@@ -40,7 +40,7 @@ This repository has a few coding puzzles.
 37. **Colorful Number** <br>
 38. **LC 81: Search in Rotated Sorted Array II** <br>
 39. **Leetcode 153: Find Minimum in Rotated Sorted Array**<br>
-40. **** <br>
+40. **Flatten given List** <br>
 41. **** <br>
 42. **** <br>
 43. **** <br>

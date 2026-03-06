@@ -42,7 +42,7 @@ This repository has a few coding puzzles.
 39. **Leetcode 153: Find Minimum in Rotated Sorted Array**<br>
 40. **Flatten given List** <br>
 41. **Leetcode: 876. Middle of the Linked List** <br>
-42. **** <br>
+42. **LC: 206. Reverse Linked List** <br>
 43. **** <br>
 44. **** <br>
 45. **** <br>

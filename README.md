@@ -36,7 +36,7 @@ This repository has a few coding puzzles.
 33. **Limit Occurrences with Relative Order Preservation** <br>
 34. **LC 33: Search in Rotated Sorted Array** <br>
 35. **Find the net feedback score** <br>
-36. **** <br>
+36. **Closest Triangular number** <br>
 37. **Colorful Number** <br>
 38. **LC 81: Search in Rotated Sorted Array II** <br>
 39. **Leetcode 153: Find Minimum in Rotated Sorted Array**<br>
